@@ -10,7 +10,7 @@ The application provides instant disease diagnosis and treatment recommendations
 ---
 
 ## 🎯 Objective
-The goal of this project is to bridge the gap between advanced computer vision models and real-world agricultural applications by creating a user-friendly platform for fast and accurate plant disease detection
+The goal of this project is to bridge the gap between advanced computer vision models and real-world agricultural applications by creating a user-friendly platform for fast and accurate plant disease detection.
 
 ---
 
